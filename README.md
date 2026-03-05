@@ -1,26 +1,51 @@
-## Hi there 👋
+# 👋 Hi, I'm Abderrahmane Tebbal
 
 ![design](design.png.png)
 
-### 👨‍💻 About Me
+## 🎨 About Me
 
-I'm **Abderrahmane Tebbal**, a passionate **Graphic Designer** and **Desktop Application Developer**.
+I'm a **Graphic Designer** and **Desktop Application Developer**.
 
-I enjoy creating clean designs and building useful software.  
-Most of my development work is focused on **Python**, where I develop desktop tools and applications.
+I enjoy creating clean visual designs and building useful software tools.  
+Most of my development work is focused on **Python**, where I build desktop applications and automation tools.
 
-### 🛠 Skills
+---
 
-- 🎨 Graphic Design (Adobe Illustrator)
-- 🖥 Desktop Application Development
-- 🐍 Python Programming
+## 🛠 Tech & Tools
 
-### 🚀 What I'm Working On
+<p>
+<img src="https://skillicons.dev/icons?i=python,github,vscode" />
+</p>
+
+**Design Tools**
+
+- Adobe Illustrator  
+- Graphic Design & Visual Identity  
+
+**Programming**
+
+- Python  
+- Desktop Application Development  
+
+---
+
+## 🚀 What I'm Working On
 
 - Improving my **Python development skills**
 - Building **desktop applications**
-- Creating **design projects and visual identities**
+- Expanding my **design portfolio**
 
-### 📫 Connect With Me
+---
 
-- GitHub: https://github.com/Denver-ai
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Denver-ai&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Denver-ai&layout=compact&theme=tokyonight)
+
+---
+
+## 🌍 Connect With Me
+
+GitHub:  
+https://github.com/Denver-ai
