@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abderrahmane Tebbal
 
-![design](design.png)
+![design](design.png.png)
 
 ## 🎨 About Me
 
