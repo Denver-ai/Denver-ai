@@ -1,31 +1,36 @@
 # 👋 Hi, I'm Abderrahmane Tebbal
 
-![design](design.png.png)
+![design](design.png)
 
 ## 🎨 About Me
 
 I'm a **Graphic Designer** and **Desktop Application Developer**.
 
-I enjoy creating clean visual designs and building useful software tools.  
-Most of my development work is focused on **Python**, where I build desktop applications and automation tools.
+I design visual identities and build desktop software using **Python**.
 
 ---
 
-## 🛠 Tech & Tools
+## 🌍 Languages
+
+- Arabic 🇩🇿
+- English 🇬🇧
+
+---
+
+## 🛠 Tools & Technologies
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,github,vscode" />
 </p>
 
-**Design Tools**
+### 🎨 Design Tools
 
-- Adobe Illustrator  
-- Graphic Design & Visual Identity  
+<p>
+<img src="https://skillicons.dev/icons?i=ai,ps" />
+</p>
 
-**Programming**
-
-- Python  
-- Desktop Application Development  
+- Adobe Illustrator
+- Adobe Photoshop
 
 ---
 
@@ -33,7 +38,7 @@ Most of my development work is focused on **Python**, where I build desktop appl
 
 - Improving my **Python development skills**
 - Building **desktop applications**
-- Expanding my **design portfolio**
+- Creating **graphic design projects**
 
 ---
 
@@ -45,7 +50,7 @@ Most of my development work is focused on **Python**, where I build desktop appl
 
 ---
 
-## 🌍 Connect With Me
+## 📫 Connect With Me
 
-GitHub:  
+GitHub  
 https://github.com/Denver-ai
