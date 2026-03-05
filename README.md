@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-![design](design.png)
+![design](design.png.png)
