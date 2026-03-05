@@ -48,8 +48,6 @@ I design visual identities and build desktop software using **Python**.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Denver-ai&layout=compact&theme=tokyonight)
 
----
-
 ## 📫 Connect With Me
 
 GitHub  
